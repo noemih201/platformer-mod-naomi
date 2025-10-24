@@ -1,35 +1,23 @@
-# Moddable Platformer
+# Naomi's Modded Platformer
 
-This mini moddable game project by [Endless OS
-Foundation](https://endlessos.org) is intended to help ease the learning curve
-into Godot.
+This project is a custom mod of the original *Moddable Platformer* by Endless OS Foundation.  
+It is part of my Godot learning journey during the GameUp Africa Godot Boot Camp 2025 (Week 1, Session 2).
 
-This sample project allows learners to engage with game creation concepts,
-applying various modifications to the game itself, all without reading or
-writing any code.
+---
 
-The `doc/MODS.md` file details the mods that have been made available.
+## What’s New
+- Two new environments
+- Moving platforms
+- Extra enemies
+- Slightly higher platforms to increase difficulty
 
-## Contributing
+---
 
-We encourage contributions that continue to address the intended audience and
-design of of this project. You can communicate with us through the
-[Endless Studios](https://studio.endlessstudios.com/studio/games/Moddable-Platformer/)
-community platform and submit pull requests via
-[GitHub](https://github.com/endlessm/moddable-platformer).
+## About
+Built with Godot 4, this project experiments with platformer design and balance while keeping the moddable spirit of the original game.
 
-### Development environment
+---
 
-Please use [pre-commit](https://pre-commit.com) to check for correct formatting
-and other issues before creating commits. To do this automatically, you can add
-it as a git hook:
-
-```
-# If you don't have pre-commit already:
-pip install pre-commit
-
-# Setup git hook:
-pre-commit install
-```
-
-Now `pre-commit` will run automatically on `git commit`!
+## Credits
+Base project by Endless OS Foundation  
+Modded by Naomih

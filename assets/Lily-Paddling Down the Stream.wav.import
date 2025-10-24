@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://lyeouqqn7jab"
+path="res://.godot/imported/Lily-Paddling Down the Stream.wav-695c566f49ca39de20b2732ca6c76ecc.sample"
+
+[deps]
+
+source_file="res://assets/Lily-Paddling Down the Stream.wav"
+dest_files=["res://.godot/imported/Lily-Paddling Down the Stream.wav-695c566f49ca39de20b2732ca6c76ecc.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
